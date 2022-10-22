@@ -30,7 +30,6 @@ h1, h2{
 .buttons {
     width: 75%;
     margin: 20px auto;
-    border: 1px solid black;
     padding: 30px;
 }
 
@@ -44,14 +43,12 @@ h1, h2{
 }
 
 .display-top div{
-    border: 1px solid #000;
     min-height: 50px;
     padding-top: 5px;
     font-size: 1.2rem;
 }
 
 .display-bottom {
-    border: 1px solid black;
     min-height: 80px;
     padding: 10px 120px;
     text-align: right;
